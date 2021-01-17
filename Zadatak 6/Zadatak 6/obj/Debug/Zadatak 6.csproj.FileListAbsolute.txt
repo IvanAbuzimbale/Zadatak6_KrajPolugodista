@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\bin\Debug\Zadatak 6.exe.config
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\bin\Debug\Zadatak 6.exe
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\bin\Debug\Zadatak 6.pdb
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.exe
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.pdb
+C:\Users\ivanm\source\repos\Zadatak 6\Zadatak 6\obj\Debug\Zadatak 6.csprojAssemblyReference.cache
